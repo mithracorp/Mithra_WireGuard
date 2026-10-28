@@ -7,7 +7,6 @@ enforce peer limits.
 
 Everything is installed by one script: `install-wg-full.sh`.
 
-> **Moved from `arkh91/Arkh91_WireGuard`.** The old `install-wg3.sh`
 > (253-key pool, no firewall layer) is superseded. Existing nodes keep working;
 > see [Updating an existing node](#updating-an-existing-node).
 
